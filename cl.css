@@ -1,0 +1,34 @@
+body{
+    background-color: azure;
+}
+
+
+.center{
+    width: 400px;
+    margin: 0 auto;
+   
+}
+
+input{
+    font-size: 2em;
+    border-radius: 5px;
+}
+
+button{
+    font-size: 2em;
+    border-radius: 5px;
+}
+
+h1{
+    font-size: 3em;
+    border-radius: 10px;
+}
+
+.box{
+    border-radius: 50px;
+}
+
+.btn{
+   gap: 25px;
+   border-collapse: collapse;
+}
